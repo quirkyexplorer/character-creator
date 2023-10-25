@@ -1,4 +1,8 @@
 .controlPane {
+  width: 100%;
+  height: 100%;
+  overflow-x: auto;
+  white-space: nowrap;
   padding: 24px;
   /* Optical centering */
   padding-top: 18px;
@@ -10,6 +14,7 @@
     to deal with it yet!
   */
   margin-bottom: 32px;
+
 }
 
 .title {
